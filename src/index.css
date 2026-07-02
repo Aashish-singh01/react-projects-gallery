@@ -2,29 +2,29 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&family=DM+Mono:wght@400;500&display=swap");
 
 :root {
-  --background: #eff6ff;
-  --foreground: #0c1a3a;
-  --card: #ffffff;
-  --card-foreground: #0c1a3a;
-  --primary: #2563eb;
-  --secondary: #dbeafe;
-  --secondary-foreground: #1e40af;
-  --muted: #eff6ff;
-  --muted-foreground: #4a6fa5;
-  --border: rgba(37, 99, 235, 0.12);
+  --background: #ffffff;
+  --foreground: #0a0a0a;
+  --card: #f9f9f9;
+  --card-foreground: #0a0a0a;
+  --primary: #0a0a0a;
+  --secondary: #f0f0f0;
+  --secondary-foreground: #0a0a0a;
+  --muted: #f5f5f5;
+  --muted-foreground: #737373;
+  --border: rgba(0, 0, 0, 0.08);
 }
 
 .dark {
-  --background: #03080f;
-  --foreground: #dbeafe;
-  --card: #060f1e;
-  --card-foreground: #dbeafe;
-  --primary: #3b82f6;
-  --secondary: #0c1a35;
-  --secondary-foreground: #93c5fd;
-  --muted: #0c1a35;
-  --muted-foreground: #719ee3;
-  --border: rgba(59, 130, 246, 0.15);
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --card: #141414;
+  --card-foreground: #ededed;
+  --primary: #ededed;
+  --secondary: #1f1f1f;
+  --secondary-foreground: #a3a3a3;
+  --muted: #1f1f1f;
+  --muted-foreground: #737373;
+  --border: rgba(255, 255, 255, 0.08);
 }
 
 @theme inline {
